@@ -15,7 +15,7 @@
     alt="ascii-art"
   />
 
-### i'm mond
+### hi! i'm mond
 
 compscie at bicol university, philippines  
 i do projects that are useless but they work sometimes
