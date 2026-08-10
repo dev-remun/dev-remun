@@ -18,7 +18,7 @@
 ### hi! i'm mond
 
 compscie at bicol university, philippines  
-i do projects that are useless but they work sometimes
+i do sw and ml projects that are useless but they work sometimes
 </p>
 
 <br clear="left">
